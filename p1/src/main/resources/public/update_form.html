@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>update</title>
+    <link rel="stylesheet" href="update_style.css">
+    <script src="/js/pendingRequests.js"></script>
+</head>
+<body style="background-color: rgb(255, 70, 70);">
+    <form name="update_form" method="post" action="update_form.html">
+    <br>
+        <table>
+            <tr>
+                <td class="text">Enter the request id</td>
+                <td><input class="text" type="text" name="id" required="required" placeholder="id"/></td>
+            </tr>
+        </table>
+        <br>
+        <table>
+            <tr>
+            <td><button class="button" type="submit" name="status" value="approved">Approved</button></td>
+            <td><button class="square_btn" type="submit" name="status" value="denied">Denied</button></td>
+            </tr>
+        </table>
+    </form>
+    <br>
+    <br>
+    <div id="responseData" ></div>
+    
+    <div style="position: absolute; bottom: 20px">
+    <a href="manager.html"><button class="button">Return to Main Menu</button></a>
+    <a href="signin.html"><button class="button">Log Out</button></a>    
+    </div>
+</body>

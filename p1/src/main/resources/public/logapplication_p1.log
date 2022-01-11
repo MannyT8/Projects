@@ -1,0 +1,98 @@
+2021-12-21 22:04:17 INFO  App:21 - Connection successful
+2021-12-21 22:04:42 INFO  App:21 - Connection successful
+2021-12-21 22:04:54 INFO  App:21 - Connection successful
+2021-12-21 22:14:34 INFO  App:21 - Connection successful
+2021-12-21 22:35:04 INFO  App:21 - Connection successful
+2021-12-21 22:35:23 INFO  UserController:39 - Employee Login
+2021-12-21 22:45:28 INFO  App:21 - Connection successful
+2021-12-21 22:45:37 INFO  UserController:39 - Employee Login: Sam
+2021-12-21 22:54:18 INFO  UserController:126 - Username: Sam Updated to: Manny
+2021-12-21 22:59:04 INFO  App:21 - Connection successful
+2021-12-21 22:59:19 INFO  UserController:38 - Employee Login: Manny
+2021-12-21 22:59:43 INFO  UserController:126 - Username: Manny Updated to: Manny
+2021-12-21 23:04:29 INFO  App:21 - Connection successful
+2021-12-21 23:04:44 INFO  UserController:37 - Employee Login: Manny
+2021-12-21 23:04:53 INFO  UserController:125 - Username: Manny Updated to: Manny
+2021-12-21 23:05:43 INFO  App:21 - Connection successful
+2021-12-21 23:06:02 INFO  UserController:37 - Employee Login: Manny
+2021-12-21 23:06:09 INFO  UserController:125 - Username: Manny Updated to: Manny
+2021-12-21 23:08:05 INFO  App:21 - Connection successful
+2021-12-21 23:08:19 INFO  UserController:37 - Employee Login: Manny
+2021-12-21 23:08:30 INFO  UserController:125 - Username: Manny Updated to: Manny
+2021-12-22 00:14:14 INFO  App:21 - Connection successful
+2021-12-22 00:14:47 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 00:15:10 INFO  UserController:40 - Manager Login: Rob
+2021-12-22 15:03:20 INFO  App:21 - Connection successful
+2021-12-22 15:03:36 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 15:03:58 INFO  UserController:40 - Manager Login: Rob
+2021-12-22 15:21:29 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 15:30:42 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 17:38:42 INFO  App:21 - Connection successful
+2021-12-22 17:39:04 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 17:44:22 INFO  App:21 - Connection successful
+2021-12-22 17:44:34 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 17:45:35 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 17:52:42 INFO  App:21 - Connection successful
+2021-12-22 17:52:51 INFO  App:21 - Connection successful
+2021-12-22 17:53:02 INFO  App:21 - Connection successful
+2021-12-22 17:53:12 INFO  App:21 - Connection successful
+2021-12-22 17:53:21 INFO  App:21 - Connection successful
+2021-12-22 17:53:34 INFO  App:21 - Connection successful
+2021-12-22 17:53:57 INFO  App:21 - Connection successful
+2021-12-22 17:54:07 INFO  App:21 - Connection successful
+2021-12-22 17:54:35 INFO  App:21 - Connection successful
+2021-12-22 17:54:50 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 17:55:15 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 17:57:03 INFO  App:21 - Connection successful
+2021-12-22 17:57:14 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 17:59:26 INFO  App:21 - Connection successful
+2021-12-22 17:59:35 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 18:00:02 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 18:04:49 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 18:30:07 INFO  App:21 - Connection successful
+2021-12-22 18:30:16 INFO  App:21 - Connection successful
+2021-12-22 18:30:29 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 18:31:48 INFO  App:21 - Connection successful
+2021-12-22 18:32:04 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 19:14:10 INFO  App:21 - Connection successful
+2021-12-22 19:16:07 INFO  App:21 - Connection successful
+2021-12-22 19:16:18 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 19:19:33 INFO  UserController:40 - Manager Login: Rob
+2021-12-22 19:48:18 INFO  App:21 - Connection successful
+2021-12-22 19:48:40 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 19:49:18 INFO  UserController:40 - Manager Login: Rob
+2021-12-22 19:49:50 INFO  UserController:40 - Manager Login: Rob
+2021-12-22 19:50:50 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 19:53:21 INFO  App:21 - Connection successful
+2021-12-22 19:55:49 INFO  App:21 - Connection successful
+2021-12-22 20:58:55 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 21:01:41 INFO  App:21 - Connection successful
+2021-12-22 21:06:28 INFO  App:21 - Connection successful
+2021-12-22 21:06:54 INFO  App:21 - Connection successful
+2021-12-22 21:07:57 INFO  App:21 - Connection successful
+2021-12-22 21:08:03 INFO  App:21 - Connection successful
+2021-12-22 21:09:41 INFO  App:21 - Connection successful
+2021-12-22 21:09:56 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 21:17:10 INFO  UserController:40 - Manager Login: Rob
+2021-12-22 21:23:47 INFO  UserController:37 - Employee Login: Manny
+2021-12-22 21:25:16 INFO  UserController:40 - Manager Login: Rob
+2021-12-23 02:40:12 INFO  UserController:40 - Manager Login: Rob
+2021-12-23 02:52:27 INFO  App:21 - Connection successful
+2021-12-23 02:52:35 INFO  App:21 - Connection successful
+2021-12-23 03:52:57 INFO  UserController:40 - Manager Login: Rob
+2021-12-23 03:56:05 INFO  UserController:37 - Employee Login: Manny
+2021-12-23 04:03:34 INFO  App:21 - Connection successful
+2021-12-23 04:04:04 INFO  UserController:37 - Employee Login: Manny
+2021-12-23 04:04:15 INFO  UserController:125 - Username: Manny Updated to: Manny
+2021-12-23 04:05:33 INFO  UserController:40 - Manager Login: Rob
+2021-12-23 10:06:00 INFO  App:21 - Connection successful
+2021-12-23 10:58:27 INFO  App:21 - Connection successful
+2021-12-23 10:58:49 INFO  UserController:37 - Employee Login: Manny
+2021-12-23 11:00:55 INFO  UserController:125 - Username: Manny Updated to: Bob
+2021-12-23 11:01:11 INFO  UserController:40 - Manager Login: Rob
+2021-12-23 16:01:46 INFO  App:21 - Connection successful
+2021-12-23 16:02:02 INFO  UserController:40 - Manager Login: Rob
+2021-12-23 17:05:09 INFO  App:21 - Connection successful
+2021-12-23 17:06:55 INFO  UserController:37 - Employee Login: Bob
+2021-12-23 17:08:20 INFO  UserController:125 - Username: Bob Updated to: Manny
+2021-12-23 17:08:42 INFO  UserController:40 - Manager Login: Rob
